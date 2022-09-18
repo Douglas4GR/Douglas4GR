@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🎓 I'm coursing systems analysis and development
 - 🌱 I’m currently learning C language
-- 📫 How to reach me: You can do this by my e-mail or whatsapp +5521905381848
+- 📫 How to reach me: You can do this by my e-mail
 
 <div align="center">
   <a href="https://github.com/DouglasGR99">
@@ -10,6 +10,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Douglas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Douglas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
   
   ##
