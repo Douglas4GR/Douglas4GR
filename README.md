@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 I'm coursing systems analysis and development
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C and HTML languages
 - 📫 How to reach me: You can do this by my e-mail
 
 <div align="center">
