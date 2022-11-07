@@ -1,7 +1,16 @@
 ### Hi there 👋
-- 🎓 I'm coursing systems analysis and development
-- 🌱 I’m currently learning C and HTML languages
-- 📫 How to reach me: You can do this by my e-mail
+- 🎓 Software engineer in formation.
+- 🌱 I’m currently learning C ,HTML(with css and Js) and python.
+- 📫 How to reach me: You can do this by my e-mail or linkedin:
+<div style="display: inline_block">
+  <a href="douglasrangel540@gmail.com">
+    <img align="center" alt="Douglas-C" height="30" width="30" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png">
+  </a>
+  <a href="www.linkedin.com/in/douglas-garcia-6677a4203">
+    <img align="center" alt="Douglas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  </a>
+</div>
+<br>
 
 <div align="center">
   <a href="https://github.com/DouglasGR99">
@@ -12,8 +21,7 @@
     <img align="center" alt="Douglas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="Douglas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Douglas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="Douglas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    
+    <img align="center" alt="Douglas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 </div>
   
   ##
