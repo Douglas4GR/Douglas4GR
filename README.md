@@ -1,15 +1,12 @@
 ### Hi there 👋
 - 🎓 Software engineer in formation.
 - 🌱 I’m currently learning C ,HTML(with css and Js) and python.
-- 📫 How to reach me: You can do this by my e-mail or linkedin:
-<div style="display: inline_block">
-  <a href="douglasrangel540@gmail.com">
-    <img align="center" alt="Douglas-C" height="30" width="30" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png">
-  </a>
-  <a href="www.linkedin.com/in/douglas-garcia-6677a4203">
-    <img align="center" alt="Douglas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-  </a>
-</div>
+- 📫 How to reach me:
+
+  <a href = "mailto:douglasrangel540@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/douglas-garcia-6677a4203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
 <br>
 
 <div align="center">
