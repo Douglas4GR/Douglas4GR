@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 Software engineer in formation.
-- 🌱 I’m currently learning C ,HTML(with css and Js) and python.
+- 🌱 I’m currently learning PHP, Java and data structure in C.
 - 📫 How to reach me:
 
   <a href = "mailto:douglasrangel540@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
