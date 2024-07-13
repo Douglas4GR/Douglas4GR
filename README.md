@@ -1,66 +1,49 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="gitsDark.png">
+    <source media="(prefers-color-scheme: light)" srcset="gits.png">
+    <img alt="Meu Perfil" src="DouglasBG.png">
+  </picture>
+</p>
 
-<h1> Hello there 👋</h1>
+# About me
+<p>
+  Hello! I'm Douglas, a developer with a passion for technology and innovation. Here you will find information about my projects, skills and interests.
+Greetings from Rio, Brazil! <img align="center" height="20" width="30" src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/br.svg" alt="BR">  
+</p>
+
+> How to reach me? There you go!
+
+<a href="https://www.linkedin.com/in/douglas4gr" target="_blank">
+<img height="30" width="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/douglas.jail" target="_blank">
+<img height="30" width="40" src="https://img.shields.io/badge/-Instagram-%23ff3c00?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:douglasrangel540@gmail.com">
+<img height="30" width="40" src="https://img.shields.io/badge/-Gmail-%23ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/douglas_foroca" target="_blank">
+<img height="30" width="40" src="https://img.shields.io/badge/-Twitch-%236441a5?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+
+<br/>
+
+## And checkout my recent projects!
+
+| Project | Description | Languages / Tools used |
+| --- | --- | --- |
+| **[Marketplace API](link-do-projeto)** | Focused on receiving orders via JSON or API, handling orders against inventory, and shipping them. | <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" /> |
+| **[Gratitude diary](link-do-projeto)** | Users can write things they are grateful for and the system will remember them to cheer them up. | <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"    /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"     /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" /> |
+| **[GameDev Ideas](link-do-projeto)** | Collection of Game Development Learning Projects | <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> |
+| **[POO](link-do-projeto)** | College Projects Related to Learning Object-Oriented Programming | <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> |
+
+> [!IMPORTANT]
+> Some projects may contain the MIT license, it's always good to read before use, and contributions are always welcome!
+
+<br/>
+
+## Stats
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <h4><img align="center" height="20" width="30" src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg" alt="US"> Firstly, welcome to my profile!</h4>
-          <h4><img align="center" height="20" width="30" src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/br.svg" alt="BR"> Primeiramente, bem vindo ao meu perfil!</h4>
-      </td>
-      <td>
-        <p>- 🎓 Software engineer in formation.</p>
-        <p>- 🌱 Currently learning about web UX / UI, and game dev and data structure in python.</p>
-        <p>- 📫 How to reach me:</p>
-        <a href = "mailto:douglasrangel540@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/douglas4gr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     target="_blank"></a>
-        <a href="https://www.instagram.com/douglas.jail" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23f53b88?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a>
-      </td>
-    </tr>
-    </table>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas4GR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas4GR&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div align="center">
-  <table>
-    <tr>
-      <th>languages ​​worked in my repositories:</th>
-      <th>Other tools, libraries and extensions:</th>
-      <th>Code editors used:</th>
-    </tr>
-    <tr>
-      <td>
-          <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-          <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-          <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-          <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-          <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-          <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-          <img align="center" alt="Douglas4GR_Icon" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
-          <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-      </td>
-      <td>
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
-      </td>
-      <td>
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" />
-        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
-      </td>
-    </tr>
-  </table>
-          <div>
-          <a href="https://github.com/Douglas4GR">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas4GR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas4GR&layout=compact&langs_count=7&theme=dark"/>
-        </div>
-</div>
-  
+
+> [!TIP]
+> This page is responsive depending on the theme you are using!
