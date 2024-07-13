@@ -15,13 +15,13 @@ Greetings from Rio, Brazil! <img align="center" height="20" width="30" src="http
 > How to reach me? There you go!
 
 <a href="https://www.linkedin.com/in/douglas4gr" target="_blank">
-<img height="30" width="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/douglas.jail" target="_blank">
-<img height="30" width="40" src="https://img.shields.io/badge/-Instagram-%23ff3c00?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/-Instagram-%23ff3c00?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:douglasrangel540@gmail.com">
-<img height="30" width="40" src="https://img.shields.io/badge/-Gmail-%23ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/-Gmail-%23ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/douglas_foroca" target="_blank">
-<img height="30" width="40" src="https://img.shields.io/badge/-Twitch-%236441a5?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/-Twitch-%236441a5?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
 <br/>
 
