@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="gitsDark.png">
-    <source media="(prefers-color-scheme: light)" srcset="gits.png">
+    <source media="(prefers-color-scheme: dark)" srcset="github-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="github-light.png">
     <img alt="Meu Perfil" src="DouglasBG.png">
   </picture>
 </p>
